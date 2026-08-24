@@ -1,7 +1,7 @@
 {
-  "latestVersion": "0.5.3",
-  "latestVersionCode": 15,
+  "latestVersion": "1.0.1",
+  "latestVersionCode": 101,
   "forceUpdate": true,
-  "downloadUrl": "https://github.com/zzardnet/putting-distance-calculator/releases/download/v0.5.3/putting-calculator-v0.5.3.apk",
-  "message": "실시간 거리·높이 계산과 컵 수 기반 퍼팅 방향 표시가 추가되었습니다. 최신 버전으로 업데이트해주세요."
+  "downloadUrl": "https://github.com/zzardnet/putting-distance-calculator/releases/download/v1.0.1/PuttingCalculator-v1.0.1.apk",
+  "message": "퍼팅 거리 계산기 정식 버전 1.0.1이 출시되었습니다. 최신 버전으로 업데이트해주세요."
 }
