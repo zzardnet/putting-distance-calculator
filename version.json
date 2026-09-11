@@ -1,7 +1,7 @@
 {
   "latestVersion": "1.0.4",
   "latestVersionCode": 105,
-  "forceUpdate": true,
+  "forceUpdate": false,
   "downloadUrl": "https://github.com/zzardnet/putting-distance-calculator/releases/download/v1.0.4/PuttingCalculator-v1.0.4.apk",
   "message": "퍼팅 거리 계산기 최신 버전 1.0.4가 출시되었습니다. 최신 버전으로 업데이트해주세요."
 }
